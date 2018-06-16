@@ -1,0 +1,52 @@
+h2 {
+    font-size: 40px;
+    color: red;
+}
+body {
+    background-image: url(../images/spidey.jpg);
+    background-size: 100%; 
+    
+}
+button {
+    border-radius: 30%;
+    font-size: 150%;
+    color: crimson;
+    background-color: beige;
+    border-color: red 2px;
+    padding: 6px;
+}
+h1 {
+    display: inline-block;
+    background-color: rgb(230, 62, 62);
+    padding: 6px;
+    border-radius: 20%;
+    color: rgb(75, 75, 243);
+}
+p {
+    background-color:whitesmoke;
+    display: inline-block;
+    font-size: 180%;
+    color: cornflowerblue;
+    padding: 8px;
+    border-radius: 20%;
+
+}
+h3 {
+    display: inline-block;
+    background-color: bisque;
+    border-radius: 20%;
+    padding: 6px;
+
+}
+.label {
+    color: crimson;
+   text-shadow: 2px 2px lightskyblue;
+}
+#timer {
+    font-size: 60px;
+    color: crimson;
+}
+h4{
+    color: honeydew;
+    font-size: 45px;
+}
