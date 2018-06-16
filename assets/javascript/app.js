@@ -23,6 +23,11 @@ $(function () {
             question: "What was the name of Peter Parker's uncle?",
             answers: ["Ben", "Bruce", "Thomas", "Andy"],
             correct: 0
+        },
+        {
+            question: "How old was Peter Parker when he became Spider-Man?",
+            answers: ["15", "16", "17", "18"],
+            correct: 0
         }
     ];
 
