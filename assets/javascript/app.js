@@ -26,7 +26,7 @@ $(function () {
         },
         {
             question: "How old was Peter Parker when he became Spider-Man?",
-            answers: ["15", "16", "17", "18"],
+            answers: [" 15 ", " 16 ", " 17 ", " 18 "],
             correct: 0
         }
     ];
@@ -52,6 +52,7 @@ $(function () {
         
 
     })
+//still working on gettting the restart button to work....
 
     // $("#restart").on("click", function() {
     //     $("#restart").hide();
@@ -139,7 +140,7 @@ $(function () {
                 $("#questions").html("<h3>Game Over!  Check out the results: </h3>");
                 $("#boxes").append("<h4> Correct: " + winner + "</h4>");
                 $("#boxes").append("<h4> Incorrect: " + wrong + "</h4>");
-                // $("#boxes").append("<h4> Unanswered: " + unanswered + "</h4>");
+                
                 $("p").hide();
                 $("button").hide();
                 $(".label").hide();
