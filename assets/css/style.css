@@ -21,6 +21,7 @@ h1 {
     padding: 6px;
     border-radius: 20%;
     color: rgb(75, 75, 243);
+    border-color: rgb(75, 75, 243) solid 2px;
 }
 p {
     background-color:whitesmoke;
