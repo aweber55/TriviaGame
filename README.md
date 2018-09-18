@@ -1,8 +1,10 @@
-# TriviaGame
+### TriviaGame
+
+----------
 
 
-This is a version of a small trivia game about Spider-man.
-It was created on VSC as a project for UCF BootCamp class.
+# This is a Trivia game that runs solely on HTML, CSS, and JavaScript.  It populates random questions and offers four answers to choose from. The timer is set when the game begins nad the score is tallied as the player progresses.
+## It was created on VSC as a project for UCF BootCamp class.
 
 Author:
 Ashley Weber
