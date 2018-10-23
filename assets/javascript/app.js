@@ -84,7 +84,7 @@ $(function () {
 
     }
     
-
+//function to start the game
     function startGame() {
         
 
